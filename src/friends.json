@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-3Km5dKYMklP1RrWj74qFs4CUiNhrQWVI47R9FFLAEvHj8xgjEw",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoBNdyoA4Ih7x2UryzotzH1H_Y3skeHCjvW18IxBaQUaU3i5YppA",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkslA2UUQEgBByMtJL7VyBi1pa45GUkrZosCieANl6IP3foJ3k",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc0l4DlW60yvVCjGmjMAShJx2p6FVzQGh5UfSpF2CkPvy7uo0Rmw",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1N9y1ECSZ0x7bMcd2OPYFsWypgMoG6l4C3AAUM7tRDeBUg9c86g",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRv63g2d5WRVXKIXacYSLrvQahNqKaDSOcwk7P1T5yno4MrQL2",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ05CBQxHJAigYBpVwK3S35F45S3kHiP7TRb1DToj5Nt9bQDk8Gbw",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpXcQHBLj91OuUtqHYXYwAyPpwG4U1rbKGpebWbBEaEMX8P6yV",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgi1E5y5GWWDgCa9exqnr8Czt2iyrzV_ZheoktrQRuUcCqWPoV",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFFIpqzbZ-JmXnHQljDfuY12Ua0HVrp63ogT7V9eNGdfUNPyuV_g",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTGHA6JVvL1THG5-cov7dCY2KlyUteW2YQbVvfK3u9uvBzlYvA",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHO4OAWJLXbSOJbUFIQwjkpZHwFv475e4DP-5FivGHt5hmUNGnig",
+      "clicked": false
+    }
+  ]
